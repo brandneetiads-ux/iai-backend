@@ -1,0 +1,208 @@
+{
+  "commercial-building-construction": {
+    "title": "Commercial Construction",
+    "cat": "Construction",
+    "loc": "India",
+    "year": "Recent",
+    "area": "Commercial Construction",
+    "client": "Private Client",
+    "heroImg": "images/construction-site.jpg",
+    "gallery": [
+      "images/construuction.png",
+      "images/architecture-blueprint.jpg"
+    ],
+    "description": "A commercial construction project delivered with a focus on structural quality, coordinated execution and dependable project planning from foundation to finish.",
+    "scope": [
+      "Commercial construction",
+      "Project execution",
+      "Structural coordination"
+    ]
+  },
+  "luxury-villa-project": {
+    "title": "Residential Construction",
+    "cat": "Residential",
+    "loc": "India",
+    "year": "Recent",
+    "area": "Luxury Villa",
+    "client": "Private Client",
+    "heroImg": "images/luxury-villa-exterior.jpg",
+    "gallery": [
+      "images/luxury-villa-arches.jpg",
+      "images/grand-staircase-double.jpg"
+    ],
+    "description": "A statement private villa combining classical architectural detailing with a grand double staircase entrance, designed for a family that entertains often.",
+    "scope": [
+      "Villa architecture",
+      "Structural construction",
+      "Interior fit-out"
+    ]
+  },
+  "luxury-master-bedroom-suite": {
+    "title": "Premium Interior Fit-Out",
+    "cat": "Residential",
+    "loc": "India",
+    "year": "Recent",
+    "area": "Premium Interior Fit-Out",
+    "client": "Private Client",
+    "heroImg": "images/bedroom-tropical-luxury.jpg",
+    "gallery": [
+      "images/bedroom-tropical-alt.jpg",
+      "images/dressing-room-vanity.jpg"
+    ],
+    "description": "A master suite designed around a tropical-inspired mural, tailored joinery and a connected dressing room, balancing indulgence with everyday comfort.",
+    "scope": [
+      "Bedroom interior design",
+      "Custom joinery",
+      "Dressing-room planning"
+    ]
+  },
+  "life-cell-corporate-office": {
+    "title": "Corporate Office Interior",
+    "cat": "Commercial",
+    "loc": "Lucknow & Ajmer, India",
+    "year": "Recent",
+    "area": "Corporate Office Interior",
+    "client": "Life Cell Pvt. Ltd.",
+    "heroImg": "images/executive-office-cabin.jpg",
+    "gallery": [
+      "images/office-reception-lounge.jpg",
+      "images/commercial-office-interior.jpg"
+    ],
+    "description": "A professional office interior across two locations, focused on efficient workspace planning, premium finishes and a consistent brand feel.",
+    "scope": [
+      "Office interior design",
+      "Workspace planning",
+      "Multi-location delivery"
+    ]
+  },
+  "hala-fm-studio": {
+    "title": "Studio & Office Interior Fit-Out",
+    "cat": "Commercial",
+    "loc": "Muscat, Oman",
+    "year": "Recent",
+    "area": "Studio & Office Interior Fit-Out",
+    "client": "HALA FM",
+    "heroImg": "images/office-breakout-pods.jpg",
+    "gallery": [
+      "images/office-lobby-lounge.jpg"
+    ],
+    "description": "A creative broadcast studio environment planned with acoustic-aware layouts and comfortable breakout spaces to support a busy on-air production team.",
+    "scope": [
+      "Studio interior design",
+      "Acoustic-aware planning",
+      "Breakout & lounge fit-out"
+    ]
+  },
+  "poct-group-corporate-office": {
+    "title": "Commercial Construction & Interior Fit-Out",
+    "cat": "Commercial",
+    "loc": "India",
+    "year": "Recent",
+    "area": "Commercial Construction & Interior Fit-Out",
+    "client": "POCT Group",
+    "heroImg": "images/poct-group-office-facade.jpg",
+    "gallery": [
+      "images/office-reception-lounge.jpg",
+      "images/executive-office-cabin.jpg"
+    ],
+    "description": "A corporate headquarters designed to make a strong first impression, pairing a striking glass-and-gold facade with warm, functional interiors for daily operations.",
+    "scope": [
+      "Facade & entrance design",
+      "Office interior fit-out",
+      "Reception & cabin planning"
+    ]
+  },
+  "saud-bahwan-group-oman": {
+    "title": "Corporate Turnkey Projects",
+    "cat": "Commercial",
+    "loc": "Muscat, Oman",
+    "year": "Recent",
+    "area": "Corporate Turnkey Projects",
+    "client": "Saud Bahwan Group",
+    "heroImg": "images/saud-bahwan-group-facade.jpg",
+    "gallery": [
+      "images/commercial-office-interior.jpg",
+      "images/office-lobby-lounge.jpg"
+    ],
+    "description": "A large-format corporate campus fit-out for a leading Oman-based group, combining a commanding architectural presence with modern, productivity-focused interiors.",
+    "scope": [
+      "Corporate campus interiors",
+      "Workspace planning",
+      "Project management"
+    ]
+  },
+  "rooftop-restaurant-lounge": {
+    "title": "Bar & Restaurant Interior Fit-Out",
+    "cat": "Hospitality",
+    "loc": "India",
+    "year": "Recent",
+    "area": "Bar & Restaurant Interior Fit-Out",
+    "client": "Private Client",
+    "heroImg": "images/rooftop-restaurant-night.jpg",
+    "gallery": [
+      "images/banquet.png",
+      "images/bar.png"
+    ],
+    "description": "An evening-first rooftop dining and bar concept, with layered timber canopies and warm lighting designed to create a destination guest experience.",
+    "scope": [
+      "Rooftop concept design",
+      "Bar & lounge fit-out",
+      "Landscape lighting"
+    ]
+  },
+  "asian-hospital": {
+    "title": "Hospital Construction & Interior Fit-Out",
+    "cat": "Healthcare",
+    "loc": "Lucknow, India",
+    "year": "Recent",
+    "area": "Hospital Construction & Interior Fit-Out",
+    "client": "Asian Hospital",
+    "heroImg": "images/asian.jpeg",
+    "gallery": [
+      "images/hospi.png"
+    ],
+    "description": "A healthcare interior delivered to international hygiene standards, planned for safe circulation, patient comfort and a calm, professional clinical environment.",
+    "scope": [
+      "Healthcare interior design",
+      "Infection-control planning",
+      "Safety-focused fit-out"
+    ]
+  },
+  "resort-hospitality-entrance": {
+    "title": "Resort Construction & Turnkey Projects",
+    "cat": "Hospitality",
+    "loc": "India",
+    "year": "Recent",
+    "area": "Resort Construction & Turnkey Projects",
+    "client": "Private Client",
+    "heroImg": "images/resort-entrance-facade.jpg",
+    "gallery": [
+      "images/cafe-lounge-interior.jpg"
+    ],
+    "description": "A grand resort arrival experience combining natural materials, water features and landscaped courtyards to set the tone for the guest stay ahead.",
+    "scope": [
+      "Facade & entrance design",
+      "Landscape integration",
+      "Hospitality planning"
+    ]
+  },
+  "hotel-lobby-guest-suites": {
+    "title": "Hotel Turnkey Projects",
+    "cat": "Hospitality",
+    "loc": "India",
+    "year": "Recent",
+    "area": "Hotel Turnkey Projects",
+    "client": "Private Client",
+    "heroImg": "images/hall.png",
+    "gallery": [
+      "images/grand-staircase-gold.jpg",
+      "images/luxury-foyer-chandelier.jpg"
+    ],
+    "description": "A hotel interior spanning lobby, staircase and guest suites, planned around guest experience, visual consistency and practical hospitality operations.",
+    "scope": [
+      "Hotel interior design",
+      "Public-area planning",
+      "Guest-suite fit-out"
+    ]
+  }
+}
