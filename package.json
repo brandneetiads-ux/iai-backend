@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "dev": "nodemon --watch src -e ts --exec ts-node src/index.ts",
-    "build": "tsc -p tsconfig.json",
+    "build": "tsc -p tsconfig.json && cp src/seed/projects.json dist/seed/projects.json",
     "start": "node dist/seed/seed.js && node dist/index.js",
     "seed": "ts-node src/seed/seed.ts",
     "dedupe": "ts-node src/seed/dedupe.ts",
