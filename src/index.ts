@@ -54,6 +54,11 @@ app.use('/api/forms', formLimiter);
 
 app.use('/uploads', express.static(path.join(__dirname, '../uploads')));
 
+// Root route — required so GoDaddy's health check (which pings "/") gets a
+// 200 instead of falling through to the 404 handler and marking the app
+// "Unhealthy".
+app.get('/', (_req, res) => res.json({ status: 'ok' }));
+
 app.get('/api/health', (_req, res) => res.json({ status: 'ok', time: new Date().toISOString() }));
 
 app.use('/api', publicRoutes);
